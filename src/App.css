@@ -1,0 +1,13 @@
+
+.main {
+    height: 100vh;
+    width: 100vw;
+}
+
+.drawer-img {
+    width: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 100%;
+    align-self: center;
+}
